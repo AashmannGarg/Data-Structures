@@ -1,0 +1,32 @@
+h3{
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+#submit_button{
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+#sort_button{
+    margin-top: 20px;
+    margin-bottom: 20px;
+    display: none;
+}
+#display_student_with_commas{
+    font-weight: bold;
+    background-color: aqua;
+    width: 300px;
+    border: 2px solid darkblue;
+    border-radius: 20px;
+    color: black;
+}
+input{
+    margin: 10px;
+}
+#display_student_without_commas{
+    font-weight: bold;
+    background-color: yellow;
+    width: 300px;
+    border: 2px solid greenyellow;
+    border-radius: 20px;
+    color:black;
+}
